@@ -1,2 +1,2 @@
 # Magnet-URI-Catalyst
-Please visit http://www.kagamiz.com/magnet-uri-catalyst/ for details.
+Please visit https://kagamiz.com/magnet-uri-catalyst/ for details.
